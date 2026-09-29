@@ -272,7 +272,7 @@ void progress_bar(int init){
   int progress = init;
   while(1){
     // TODO: Implement an animation of progress bar
-    
+    printf("Hello World!\n");
     fflush(stdout);
     progress = yield(progress);
     if (progress == 64) break;
@@ -306,7 +306,8 @@ int main(){
     //test7(0);
     //test8(0);
     //test_progress_bar(0);
-        std::cout << "Hello World!" << std::endl;
+
+    printf("Hello World!\n");
     {
       try{
       }
