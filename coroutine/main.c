@@ -307,7 +307,7 @@ int main(){
     //test8(0);
     //test_progress_bar(0);
 
-    printf("Hello World!\n");
+    printf("Hello:)World!\n");
     {
       try{
       }
