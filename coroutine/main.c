@@ -307,7 +307,11 @@ int main(){
     //test8(0);
     //test_progress_bar(0);
 
-    printf("Hello:)World!\n");
+<<<<<<< HEAD
+    printf("HelloWorld!\n");
+=======
+    printf("HelloWorld!\n");
+>>>>>>> feature
     {
       try{
       }
